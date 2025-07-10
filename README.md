@@ -1,4 +1,4 @@
-# Basketball Project Setup Guide
+# Authentication Setup Guide
 
 Welcome to the Basketball project! This guide will help you set up the project on any device (Windows, macOS, or Linux).
 
